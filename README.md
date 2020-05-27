@@ -1,6 +1,6 @@
 # flutterchatapp
 
-A new Flutter application.
+This app for sending message, and you can Looking for the users by using name
 
 ## Getting Started
 
